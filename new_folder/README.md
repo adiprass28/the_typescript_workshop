@@ -1,2 +1,2 @@
-## Exercise 1.03: Working with Object 
+## Exercise 1.04: Examining typeof
 
